@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "普通.gif",
+  "base_artist": "A4。",
+  "createdAt": "2026-02-10T06:39:28.888142Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "普通.gif feat. 可不",
+      "artist": "A4。",
+      "has_synced": false,
+      "path": "select/pl_01_普通.gif_feat._可不_A4。.txt"
+    }
+  ]
+}
